@@ -5,4 +5,4 @@ The purpose of this collection of notebooks is to teach graphs in python startin
 part 1: learning and visualising graphs with ipycytoscape.   
 https://joseberlines.medium.com/learning-and-visualising-graphs-with-ipycytoscape-1ca150f24933
 
-![Alt text](/images/graph-example.png?raw=true "Optional Title")
+![Alt text](/images/graph-example.png?raw=true)
