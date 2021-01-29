@@ -1,6 +1,8 @@
 # Learning Graphs from scratch with ipycytoscape
 
-The above notebooks are also available as articles under:
+The purpose of this collection of notebooks is to teach graphs in python starting by visualizing them with ipycytoscape.
 
 part 1: learning and visualising graphs with ipycytoscape.   
 https://joseberlines.medium.com/learning-and-visualising-graphs-with-ipycytoscape-1ca150f24933
+
+![Alt text](/images/graph-example.png?raw=true)
